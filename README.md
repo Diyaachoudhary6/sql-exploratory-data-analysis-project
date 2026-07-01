@@ -52,6 +52,26 @@ SQL-Exploratory-Data-Analysis-Project/
 ```
 ---
 
+# Exploratory Data Analysis (EDA)
+   - Database Exploration
+   - Dimension Exploration
+   - Date Exploration
+   - Measures Exploration
+   - Magnitude Analysis
+   - Ranking Analysis
+     
+---
+
+# Advance Analytics 
+   - Change over time Analysis (Trends)
+   - Cumulative Analysis
+   - Performance Analysis
+   - Proportional Analysis
+   - Data Segmentation
+   - Reporting
+     
+---
+
 # 📈 Business Questions Answered
 
 * What is the total sales generated?
@@ -79,6 +99,7 @@ Through this project, I gained hands-on experience in:
 * Applying SQL techniques used in real-world analytics projects.
 
 ---
+
 # 👩‍💻 Author
 
 **Diyaa Choudhary**
